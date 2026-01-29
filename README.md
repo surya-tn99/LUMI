@@ -1,4 +1,5 @@
-# LUMI - Voice-First Health Companion for the Elderly
+# LUMI [Listen Understand Monitor Interact] 
+   - Voice-First Health Companion for the Elderly
 
 **LUMI** is a voice-first web application designed to bridge the digital gap for the elderly. By simulating a mobile app experience within a web browser, it allows seniors to manage their health independently without the need for typing or navigating complex menus.
 
